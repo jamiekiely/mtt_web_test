@@ -1,0 +1,1 @@
+/home/ec2-user/scripts/get_met_weather.sh
